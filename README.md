@@ -1,5 +1,7 @@
 # MusicXMLCapstone
 
+The pseudocode.txt file contains the beginnings of a pseudocode algorithm for how to transpose a piece of music.
+
 The Capstone.musicxml file contains a small piece of music written by me in MusicXML. It has a soprano and bass part, is in the key of B-flat major, and is two measures long. It is the file that the transpose.java program reads from.
 
 The NewCapstone.musicxml file contains the transposed version of Capstone.musicxml. It is where the transpose.java program writes to.
